@@ -1,0 +1,104 @@
+
+
+
+.cpic1{
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 100%;
+}
+
+.cat-search{
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: gray;
+  background-color: white;
+  font-size: 15px;
+  padding: 8px 20px 8px 15px;
+}
+
+.googlebar{
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 15px;
+  background-color: white;
+  border-style: none;
+  border-width: 0px;
+  margin: 50px 0px 0px 0px;
+  padding: 10px 102px 10px 12px;
+  width: 250px;
+  box-shadow: 1px 1px 5px;
+}
+
+.email{
+  color: rgb(88, 88, 88);
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 0px 0px 0px 0px;
+  font-size: 13px;
+  margin: 0 0 8px 0;
+}
+
+.email-text{
+  border-style: solid;
+  background-color: white;
+  border-width: 2px;
+  border-radius: 5px;
+  border-color: rgb(97, 97, 97);
+  padding: 6px 180px 6px 10px;
+  color: rgb(75, 75, 75);
+  margin: 0 0 0 0;
+}
+
+.termscond{
+  font-family: Arial, Helvetica, sans-serif;
+  color: darkgray;
+  font-size: 14.2px;
+  margin: 20px 0px 20px 0px;
+}
+
+.buuutton{
+  border-style: none;
+  background-color: rgb(49, 114, 235);
+  color: white;
+  font-size: 20px;
+  margin: 0px 0px 30px 0px;
+  padding: 18px 125px 18px 125px;
+  border-radius: 35px;
+  cursor: pointer;
+}
+
+.chat-pfp{
+  width: 70px;
+  height: 70px;
+  object-fit:cover;
+  border-radius: 100%;
+  vertical-align: middle;
+
+}
+
+.chat-comment{
+  padding: 10px 12px 10px 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  border-style: none;
+  background-color: white;
+  border-width: none;
+  vertical-align: middle;
+  width: 300px;
+  border-radius: 20px;
+}
+
+.tweeter{
+  border-style: none;
+  background-color: rgb(54, 151, 230);
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  padding: 8px 16px 8px 16px;
+  border-radius: 15px;
+  cursor: pointer;
+  vertical-align: middle;
+  
+}

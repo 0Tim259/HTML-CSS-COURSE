@@ -1,0 +1,188 @@
+.h2-font {
+  font-family: tahoma;
+}
+
+.h3-font {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-bottom: 4px;
+}
+
+.vpart {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(141, 141, 141);
+  margin-top: 0px;
+}
+
+.vtext {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
+  max-width: 280px;
+  margin-bottom: 20;
+}
+
+.gsbutton {
+  background-color: rgb(28, 153, 28);
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-style: none;
+  padding: 7 15 7 15;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.gsbutton:hover{
+  background-color: cornflowerblue;
+  color: black;
+}
+
+.gsbutton:active{
+  background-color: coral;
+  color: whitesmoke;
+  opacity: .5;
+}
+
+.h1-text {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 5px;
+}
+
+.saletext {
+  font-family: Arial, Helvetica, sans-serif;
+  color: red;
+  font-style: italic;
+  font-size: 22px;
+  margin-top: 0px;
+}
+
+.sfyb-heading{
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 20px;
+
+}
+
+.sfyb-desc{
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 0px;
+  margin-left: 85px;
+  font-size: 18.5px;
+  margin-bottom: 25px;
+}
+
+.learnmore{
+  font-family: Arial, Helvetica, sans-serif;
+  color: cornflowerblue;
+  margin-top: 0px;
+  margin-left: 165px;
+  font-size: 19px;
+  cursor: pointer;
+}
+
+.learnmore:hover{
+  text-decoration: underline;
+  color: coral;
+}
+
+.newtext{
+  color: chocolate;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 230px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  font-size: 13px;
+}
+
+.mcbp{
+  margin: 0 0 5px 165px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.scfp{
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0 0 15px 0px;
+  font-size: 44px;
+}
+
+.f1999{
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(65, 65, 65);
+  margin: 0 0 15px 200px;
+  font-size: 17px;
+}
+
+.applebuy{
+  background-color: cornflowerblue;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  border-style: none;
+  border-radius: 20px;
+  font-weight: bold;
+  font-size: 13px;
+  margin: 0 0 0 220px;
+  padding: 6 14 6 14;
+  cursor: pointer;
+}
+
+.fcc{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  margin: 0 0 0 0;
+
+}
+
+.fcc1h{
+  font-family: Arial, Helvetica, sans-serif;
+  color:gray;
+  margin: 0 0 0 0;
+}
+
+.aawd{
+  font-family: Arial, Helvetica, sans-serif;
+  max-width: 500px;
+  margin: -8 0 20px 0;
+}
+
+.chp{
+  font-family: Arial, Helvetica, sans-serif;
+  color: cornflowerblue;
+}
+
+.teeext{
+  font-family: arial;
+  margin: 0 0 0 0;
+}
+
+.usd1049{
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0 0 0 0;
+
+}
+
+.numbers{
+  font-weight: 500;
+  font-size: 20px;
+  margin: 0 0 0 0;
+}
+
+.usd{
+  color: rgb(124, 124, 124);
+  margin: 0 0 0 3px;
+  font-size: 13px;
+}
+
+.symbol-stuff{
+  color: green;
+  font-size: 10.5px;
+  margin: -12 0 0 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.afterhours{
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(100, 100, 100);
+  font-size: 10.5;
+  margin: 8 0 0 0;
+}
+
+.numeros{
+  color: rgb(216, 0, 0);
+}
