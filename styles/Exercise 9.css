@@ -1,0 +1,155 @@
+.test-div{
+  background-color: red;
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+}
+
+.test-div2{
+  background-color: green;
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  display: inline-block;
+}
+
+.questionbox{
+  width: 350px;
+  height: 70px;
+  border-style: solid;
+  border-color: gray;
+  border-width: 1px;
+  padding: 15px 15px 15px 15px;
+}
+
+.question{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  margin: 3px 0px 20px 0px;
+}
+
+.button1,
+.button2{
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0px 0px 0px 0px;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.ytmusic-box{
+  width: 400px;
+  height: 100px;
+  background-color: rgb(37, 35, 35);
+  padding: 20px 20px 20px 20px;
+  margin-top: 20px;
+}
+
+.ytmusic-head{
+  margin: 0px 0px 15px 0px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 27px;
+}
+
+.ytmusic-text{
+  margin: 0px 0px 0px 0px;
+  color: gray;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+
+.chat-pfp{
+  width: 70px;
+  height: 70px;
+  object-fit:cover;
+  border-radius: 100%;
+  vertical-align: middle;
+
+}
+
+.chat-comment{
+  padding: 10px 12px 10px 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  border-style: none;
+  background-color: white;
+  border-width: none;
+  vertical-align: middle;
+  width: 300px;
+  border-radius: 20px;
+  outline: none;
+}
+
+.tweeter{
+  border-style: none;
+  background-color: rgb(54, 151, 230);
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 17px;
+  padding: 8px 16px 8px 16px;
+  border-radius: 15px;
+  cursor: pointer;
+  vertical-align: middle;
+}
+
+div{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.comment{
+  border-color: gray;
+  width: 485px;
+  height: 70px;
+  border-radius: 10px;
+  padding: 12px 20px 12px 20px;
+  box-shadow: 1px 1px 10px rgb(121, 121, 121);
+}
+
+.profile{
+  border-style: none;
+  width: 200px;
+  height: 320px;
+  box-shadow: 1px 1px 10px rgb(126, 126, 126);
+  display: inline-block;
+  margin: 10px 8px 10px 8px;
+}
+
+.profile-pfp{
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+
+.profile-name{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  margin: 0px;
+  margin-left: 8px;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+
+.profile-friends{
+  color: gray;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0px;
+  margin-left: 8px;
+  margin-bottom: 15px;
+}
+
+.profile-add{
+  margin-left: 8px;
+  border-style: none;
+  background-color: rgb(73, 130, 238);
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  padding: 10px 21px 10px 21px;
+  border-radius: 5px;
+  cursor: pointer;
+}
