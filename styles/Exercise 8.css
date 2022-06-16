@@ -1,0 +1,119 @@
+.formm{
+  display: block;
+  margin: 4px 0px 4px 0px;
+}
+
+.pgraph1{
+  max-width: 200px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.yes-button,
+.no-button{
+  vertical-align: middle;
+  display: inline-block;
+  border-color: rgb(145, 145, 145);
+  background-color: rgb(221, 221, 221);
+  color: black;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 2px;
+  margin-left: 0px;
+  cursor: pointer;
+}
+
+.main-logo{
+  width: 300px;
+  margin-left: 200px;
+  display: block;
+}
+
+.google-searchbar{
+  background-color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  width: 500px;
+  padding: 10px 15px 10px 15px;
+  border-radius: 20px;
+  box-shadow: 2px 2px 10px;
+  margin-left: 80px;
+  margin-top: 10px;
+  outline: none;
+  border-style: none;
+  margin-bottom: 30px;
+}
+
+.form-namep1,
+.form-namep2,
+.form-namep3{
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: white;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  padding: 10px 10px 10px 10px;
+  outline: none;
+  font-size: 15px;
+  width: 110px;
+  border-color: darkgray;
+}
+
+.form-namep3{
+  display: block;
+  margin-top: 8px;
+  width: 247px;
+  margin-bottom: 9px;
+}
+
+.form-signup{
+border-style: none;
+background-color: rgb(64, 127, 243);
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+padding: 15px 106px 15px 106px;
+font-weight: bold;
+font-size: 15px;
+border-radius: 8px;
+}
+
+.uber-heading{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  margin-bottom: 30px;
+}
+
+.uber-form1,
+.uber-form2{
+  font-family: Arial, Helvetica, sans-serif;
+  border-style: none;
+  outline: none;
+  background-color: rgb(228, 228, 228);
+  color: darkgray;
+  padding: 20px 20px 20px 20px;
+  display: block;
+  margin-bottom: 10px;
+  font-size: 16px;
+  width: 450px;
+}
+
+.uber-button1,
+.uber-button2{
+  border-style: none;
+  cursor: pointer;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 20px 23px 20px 23px;
+  font-size: 16px;
+  margin-top: 30px;
+}
+
+.uber-button1{
+background-color: black;
+color: white;
+margin-right: 20px;
+}
+
+.uber-button2{
+  background-color: rgb(228, 228, 228);
+  color: black;
+}
