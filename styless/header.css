@@ -46,7 +46,9 @@
 }
 
 
-.search-button, .voice-search-button{
+.search-button, 
+.voice-search-button
+{
   height: 40px;
   width: 66px;
   background-color: rgb(240, 240, 240);
@@ -55,13 +57,16 @@
   border-color: rgb(192, 192, 192);
   margin-left: -1px;
   margin-right: 10px;
-  position: relative;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+
 }
 
-.search-button .tooltip, .voice-search-button .tooltip{
+.search-button .tooltip,
+.voice-search-button .tooltip,
+.upload-icon-container .tooltip,
+.ya3 .tooltip,
+.ya4 .tooltip
+{
+  font-family: Roboto, arial;
   position: absolute;
   background-color: gray;
   color: white;
@@ -76,11 +81,23 @@
 }
 
 .search-button,
-.voice-search-button {
+.voice-search-button,
+.upload-icon-container,
+.ya3,
+.ya4
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
   position: relative;
 }
 
-.search-button:hover .tooltip, .voice-search-button:hover .tooltip {
+.search-button:hover .tooltip, 
+.voice-search-button:hover .tooltip,
+.upload-icon-container:hover .tooltip,
+.ya3:hover .tooltip,
+.ya4:hover .tooltip
+{
   opacity: 1;
 }
 
