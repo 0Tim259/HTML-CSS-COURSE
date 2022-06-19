@@ -1,0 +1,78 @@
+p{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+  margin: 0%;
+
+}
+
+.holder{
+  border-style: none;
+  height: 50px;
+  width: 198px;
+  display: inline-block;
+  margin: 3px 0px;
+  
+}
+
+.pfp-h{
+height: 40px;
+width: 40px;
+display:inline-block;
+vertical-align: top;
+padding: 5px;
+
+}
+
+.pfs-h{
+height: 50px;
+width: 80px;
+border-style: none;
+display: inline-block;
+vertical-align: top;
+}
+
+.pfp-b{
+height: 40px;
+width: 50px;
+padding: 5px;
+display: inline-block;
+}
+
+.pfpp{
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+  object-fit: cover;
+  box-shadow: 1px 1px 5px rgb(117, 117, 117);
+}
+
+.name,
+.species,
+.popular{
+height: 12.7px;
+width: 76px;
+padding: 2px;
+}
+
+.pfpn{
+  font-weight: bold;
+
+}
+
+.pfps,
+.pfpf{
+color: gray;
+
+}
+
+.pfpb{
+  font-size: 8px;
+  border-style: none;
+  background-color: rgb(100, 175, 237);
+  color: white;
+  border-radius: 5px;
+  padding: 5px 10px;
+  font-weight: bold;
+  margin: 10px 2px;
+}
+

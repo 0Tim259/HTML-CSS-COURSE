@@ -152,4 +152,19 @@ div{
   padding: 10px 21px 10px 21px;
   border-radius: 5px;
   cursor: pointer;
+  transition: 1s;
+}
+
+.profile-add:hover{
+  padding: 10px 81px 10px 21px;
+  background-color:coral;
+}
+
+.profile-add:active{
+  padding: 8px 79px 8px 19px;
+  opacity: .3;
+  transition: .1s;
+  margin: 2px 0px 2px 8px;
+  background-color:rgb(94, 13, 243);
+
 }

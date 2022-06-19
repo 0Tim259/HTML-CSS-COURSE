@@ -1,0 +1,153 @@
+p{
+  margin: 0px;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+div{
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+.flexbox1{
+  width: 300px;
+  margin-bottom: 20px;
+  display: flex;
+}
+
+.ab1{
+  background-color: lightpink;
+  width: 100px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.ab1a{
+  background-color: black;
+  color: white;
+}
+
+.ab2{
+  background-color: lightblue;
+  width: 200px;
+  height: 50px;
+}
+
+
+
+
+.flexbox2{
+  width: 300px;
+  margin-bottom: 20px;
+  display: flex;
+}
+
+.cd1{
+background-color: rgb(216, 216, 216);
+height: 50px;
+width: 60px;
+border-end-start-radius: 15px;
+border-start-start-radius: 15px;
+padding: 10px;
+}
+
+.cd2{
+  background-color: white;
+  height: 50px;
+  width: 200px;
+  border-start-end-radius: 15px;
+  border-end-end-radius: 15px;
+  padding: 9px;
+  border: 1px solid rgb(216, 216, 216);
+
+}
+
+.cd2f{
+  color: gray;
+  margin-bottom: 5px;
+}
+
+.cd2h{
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.cd2b{
+  color: black;
+  line-height: 15px;
+  font-weight: 600;
+  
+}
+
+.cd2c{
+  background-color: black;
+  color: white;
+}
+
+
+
+
+.flexbox3{
+  border: 1px solid rgb(206, 206, 206);
+  border-radius: 5px;
+  width: 350px;
+  padding: 10px;
+  box-shadow: 1px 1px 10px rgba(143, 143, 143, 0.3);
+}
+
+.row1{
+  color: gray;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
+
+.row2{
+  height: 100px;
+  display: flex;
+  align-items: center;
+}
+
+.row2a{
+  margin-right: 10px;
+}
+
+.pfp{
+  height: 60px;
+  width: 60px;
+  object-fit: cover;
+  border-radius: 30px;
+}
+
+.row2b{
+width: 300px;
+}
+
+.title-time{
+  display: flex;
+  align-items: center;
+  justify-content:space-between;
+  margin-bottom: 4px;
+}
+
+.title{
+font-size: 16px;
+font-weight: bold;
+}
+
+.time{
+  color: gray;
+  font-size: 14px;
+}
+
+.subject-text{
+  font-size: 14.2px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.message-content{
+  color: gray;
+  font-size: 13.5px;
+}

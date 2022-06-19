@@ -1,0 +1,160 @@
+p{
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+.flexbox1{
+ display: flex;
+ margin-bottom: 20px;
+
+}
+
+.nm1{
+background-color: lightblue;
+width: 200px;
+}
+.nm2{
+background-color: lightpink;
+width: 75px;
+}
+
+
+
+.flexbox2{
+  display: flex;
+  width: 275px;
+  margin-bottom: 20px;
+ 
+ }
+
+.ab1{
+  background-color: lightblue;
+  width: 50px;
+}
+
+.ab2{
+  background-color: lightpink;
+  flex: 1;
+}
+
+.ab3{
+  background-color: lightblue;
+  width: 50px;
+}
+
+
+
+.flexbox3{
+  display: flex;
+  margin-bottom: 20px;
+  justify-content: space-between;
+  width: 275px;
+ }
+
+.cd1{
+  background-color: lightpink;
+}
+
+.cd2{
+  background-color: lightpink;
+}
+
+.cd3{
+  background-color: lightpink;
+}
+
+.cd4{
+  background-color: lightpink;
+}
+
+
+
+.flexbox4{
+  margin-bottom: 20px;
+  height: 50px;
+  width: 275px;
+  border: 1px solid gray;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+ }
+ 
+ .ef1{
+ background-color: lightpink;
+ }
+
+ .ef2{
+ background-color: lightpink;
+ }
+
+
+
+ .flexbox5{
+  border: 1px solid gray;
+  width: 300px;
+  padding: 5px 15px;
+  border-radius: 6px;
+  margin-bottom: 20px;
+ }
+
+ .container1{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+ }
+
+ .gh1,
+ .gh2{
+  font-family: Arial, Helvetica, sans-serif;
+ }
+
+ .gh2{
+  font-size: 16px;
+  background-color: cornflowerblue;
+  color: white;
+  font-weight: bold;
+  border-radius: 10px;
+  padding: 4px 10px 4px 10px;
+  margin: 4px 0px;
+ }
+
+
+
+.flexbox6{
+  background-color: rgb(163, 107, 255);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 10px;
+}
+
+.left{
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.mid{
+  border-style: none;
+  background-color: white;
+  color: gray;
+  border-radius: 20px;
+  font-size: 14px;
+  padding: 6px 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 275px;
+  outline: none;
+}
+
+.right{
+  border: 1px solid white;
+  background-color: rgb(163, 107, 255);
+  color: white;
+  font-size: 16px;
+  padding: 6px 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 2px;
+  cursor: pointer;
+}
